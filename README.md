@@ -160,8 +160,6 @@ MCA Student
 
 CodeAlpha Data Analytics Intern
 
-GitHub: https://github.com/GAURAV24-CODE
-
 ---
 
 ## ⭐ Conclusion
