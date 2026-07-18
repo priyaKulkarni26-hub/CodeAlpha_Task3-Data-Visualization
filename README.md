@@ -160,6 +160,7 @@ MCA Student
 
 CodeAlpha Data Analytics Intern
 
+GitHub: https://github.com/priyaKulkarni26-hub
 ---
 
 ## ⭐ Conclusion
